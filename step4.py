@@ -1,5 +1,4 @@
 import requests
-import json
 url = 'http://challenge.code2040.org/api/prefix'
 payload = {'token': '6947ddc0354913e7928f75ce2f42e5ed',
 	    'github': 'https://github.com/tyreest19/code2040_api',
